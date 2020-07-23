@@ -5,4 +5,4 @@
 
 3. run live.py and graphing.py simultaneously
 
-4. delete twitter-out.txt file before every to delete data from previous runs
+4. delete twitter-out.txt file before every run to delete data from previous runs
